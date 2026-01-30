@@ -8,7 +8,7 @@
 
 ## 🚀 Un poco sobre mí
 
-👨‍🎓 Estudio **Licenciatura en Sistemas** y **Tecnicatura en Informática**.  
+👨‍🎓 Soy **Técnico en Informática** y estoy siguiendo con una **Licenciatura en Sistemas**.  
 📚 Además, me gusta aprender por mi cuenta y meterme con cosas nuevas todo el tiempo.  
 🌍 Me interesa todo lo que tenga que ver con tecnología, programación y el mundo IT.  
 
